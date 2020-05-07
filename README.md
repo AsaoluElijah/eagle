@@ -1,8 +1,9 @@
 # Eagle 🦅
 > Fly your way to the top like an eagle
-### A short story 😅
+### A short story 
 I was scrolling through the top github user in United Kingdom [list](http://commits.top/uk.html) <br />
-Then, i saw this guy [@tef](https://github.com/tef) he has 26000+ commits and he's not been active on github for some months/years (he even has commits from the **FUTURE**)
+Then, i saw this guy [@tef](https://github.com/tef) he has 26000+ commits and he's not been active on github for some months/years (he even has commits from the **FUTURE**) 🤯
+<br />
 I was so sure this was automated, i then decided to try something similar out (just for fun)
 ### How To
 > Note: This guide require you have [Node.js](https://nodejs.org) installed, and also an understanding of a Command Line Interface(CLI)
